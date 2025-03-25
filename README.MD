@@ -1,4 +1,4 @@
-# 🚀 AI Autofill - Chrome Extension  
+# 🚀 My Gemini - Chrome Extension  
 
 A powerful Chrome extension that uses **Google Gemini AI** to quick search using shorthand.  
 
