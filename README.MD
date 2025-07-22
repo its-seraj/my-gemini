@@ -42,7 +42,7 @@ A powerful Chrome extension that uses **Google Gemini AI** to quick search using
 
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/yourusername/ai-autofill.git
+   git clone https://github.com/its-seraj/my-gemini.git
    ```
 2. Open **Chrome Extensions** (`chrome://extensions/`).
 3. Enable **Developer Mode** (Top Right).
